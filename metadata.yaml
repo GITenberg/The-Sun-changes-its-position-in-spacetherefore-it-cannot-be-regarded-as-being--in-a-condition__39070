@@ -1,0 +1,28 @@
+_repo: The-Sun-changes-its-position-in-spacetherefore-it-cannot-be-regarded-as-being--in-a-condition__39070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39070-h/images/cover_full.jpg
+creator:
+  author:
+    agent_name: Tischner, August
+    birthdate: 1819
+    gutenberg_agent_id: '37020'
+    url: http://www.gutenberg.org/2009/agents/37020
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39070'
+  lccn: 04029303
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Solar system -- Miscellanea'
+title: 'The Sun changes its position in space
+
+  therefore it cannot be regarded as being "in a condition of rest"'
+url: http://www.gutenberg.org/ebooks/39070
