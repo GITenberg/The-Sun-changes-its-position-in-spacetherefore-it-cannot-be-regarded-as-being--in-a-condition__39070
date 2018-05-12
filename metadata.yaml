@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37020'
     url: http://www.gutenberg.org/2009/agents/37020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39070#The-Sun-changes-its-position-in-spacetherefore-it-cannot-be-regarded-as-being--in-a-condition_
 gutenberg_issued: '2012-03-07'
 gutenberg_type: Text
 identifiers:
